@@ -32,3 +32,5 @@
 > 
 > Talk to Santa in front of the castle to get your next objectives.
 ---
+
+![](./res/jingle_ringford.png)
