@@ -27,7 +27,7 @@
 > 
 > Click the computer terminal
 
-## f) Talk to Santa
+## e) Talk to Santa
 > Difficulty: 1/5
 > 
 > Talk to Santa in front of the castle to get your next objectives.
